@@ -30,8 +30,8 @@ namespace
 
 int main(const int argc, const char** argv)
 {
-	console::set_title("AlterWare Master");
-	console::log("AlterWare Master");
+	console::set_title("H2M Master");
+	console::log("H2M Master");
 
 	try
 	{
